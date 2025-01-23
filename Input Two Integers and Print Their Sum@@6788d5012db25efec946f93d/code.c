@@ -6,6 +6,6 @@ int main(){
     print("Sum: %d",a+b);
     
     
-    return o;
+    return 0;
 
 }
