@@ -1,12 +1,12 @@
 #include <stdio.h>
 int main(){
     int a;
-    scanf("%d",&a);
+    scanf("%d",a);
     if(a%2==0){
-        printf("even",a)
+        printf("even");
     }
     else{
-        printf("odd",a)
+        printf("odd");
     }
 
     
