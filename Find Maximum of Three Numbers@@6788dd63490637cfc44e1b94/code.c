@@ -3,12 +3,14 @@
 
 int main() {
     int a,b,c ;
-    scanf("%d" "%d" "%d", a,b,c);
+    scanf("%d",&a);
+    scanf("%d",&b);
+    scanf("%d",&c);
     if(a>b && a>c){
-        printf("%d",a);
+        printf("%d");
     }
     else if(b>a && b>c){
-        print("%d",b);
+        print("%d");
     }
     else{
         print("%d",c);
