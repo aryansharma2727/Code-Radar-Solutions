@@ -4,7 +4,7 @@ int main() {
     int costprice,sellingprice ;
     scanf("%d",&costprice);
     scanf("%d",&sellingprice);
-    int difference = selling price -cost price;
+    int difference = sellingprice -costprice;
     if(difference>0){
         printf("Profit");
     }
